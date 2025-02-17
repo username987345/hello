@@ -1,0 +1,5 @@
+<feeds title="RSS Feed Index">
+  <feed url="https://www.nasa.gov/rss/dyn/breaking_news.rss" name="NASA Breaking News" file="nasa.html"/>
+  <feed url="http://feeds.arstechnica.com/arstechnica/index.rss" name="Ars Technica" file="ars.html"/>
+  <feed url="https://rss.packetstormsecurity.com/news/" name="Packet Storm News" file="packetstorm.html"/>
+</feeds>
