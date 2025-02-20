@@ -1,4 +1,4 @@
 <feeds title="Top Stories">
-<feed url="https://www.nasa.gov/rss/dyn/breaking_news.rss" name="NASA Breaking News & Other" file="nasa.html"/>
+<feed url="https://www.nasa.gov/rss/dyn/breaking_news.rss" name= "NASA Breaking News Other" file="nasa.html"/>
 <feed url="http://feeds.arstechnica.com/arstechnica/index.rss" name="Ars Technica" file="ars.html"/>
-</feeds>
+</feed>
